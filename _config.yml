@@ -15,11 +15,11 @@ style: styles-4
 #Profile information
 name: Nguyen Xuan Huong
 tagline: PHP Developer
-pic: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: xuan.huong.humg@gmail.com
-phone: 0939 396 595
+phone: (+84)939.396.595
 website: zhuongnx.github.io #do not add http://
 linkedin: huongnx
 github: zhuongnx
