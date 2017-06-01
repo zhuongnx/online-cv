@@ -13,8 +13,8 @@ style: styles-4
 
 
 #Profile information
-name: Huong Nguyen Xuan
-tagline: Senior Web Developer
+name: Nguyen Xuan Huong
+tagline: PHP Developer
 pic: avatar.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
